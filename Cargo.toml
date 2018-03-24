@@ -1,0 +1,6 @@
+[package]
+name = "memes-tracker-users"
+version = "0.1.0"
+authors = ["Dmitry Shur <dimashur@gmail.com>"]
+
+[dependencies]
